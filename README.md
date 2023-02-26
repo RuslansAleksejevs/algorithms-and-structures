@@ -3,3 +3,7 @@ I guess I will be putting my solutions to some leetcode problems here. Perhaps, 
 ## Python
 1) dictionary. 
 Задача с литкода 3.
+
+2) линдкед лист.
+Опять литкод, задача 5.
+Без указателей что-то сложно.
