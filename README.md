@@ -7,3 +7,6 @@ I guess I will be putting my solutions to some leetcode problems here. Perhaps, 
 2) линдкед лист.
 Опять литкод, задача 5.
 Без указателей что-то сложно.
+
+3) Слишком часто в последнее время требуется: 
+positive_infinity = float('inf')
