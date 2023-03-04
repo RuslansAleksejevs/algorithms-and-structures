@@ -10,3 +10,6 @@ I guess I will be putting my solutions to some leetcode problems here. Perhaps, 
 
 3) Слишком часто в последнее время требуется: 
 positive_infinity = float('inf')
+
+4) дерево. Пока обычное.
+DFS и BFS обязательно вставь.
