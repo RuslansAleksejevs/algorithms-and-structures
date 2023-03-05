@@ -12,7 +12,7 @@ I guess I will be putting my solutions to some leetcode problems here. Perhaps, 
 positive_infinity = float('inf')
 
 4) дерево. Пока обычное.
-DFS и BFS обязательно вставь.
+DFS и BFS обязательно вставь, можно из задачек с литкода
 
 
 
