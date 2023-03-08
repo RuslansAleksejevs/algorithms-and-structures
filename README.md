@@ -51,7 +51,7 @@ https://www.geeksforgeeks.org/heap-queue-or-heapq-in-python/
 
 Имхо, 347 и 692 показательны.
 
-Какая сложность у heapify? nlogn?
+Какая сложность у heapify? O(nlogn)? Все же вроде просто О(n)
 
 
 XXXX) стоит ли что-то на бинарный поиск выставлять? Мб один раз написанное
