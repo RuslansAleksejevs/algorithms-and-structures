@@ -81,7 +81,7 @@ ______________________________________________
 1) bucket sort (стакается с кучей, имхо, 347 и 692 показательны.)
 2) вообще, хочу по разным экзотическим сортировкам постепенно пройтись, не только по меинстримным мердж и квик
 3) Kadane’s Algorithm. Найти максимальную сумму подмассива.
-4) бинарный поиск. Очень важны разные вариации (например, пргождается мне в задаче "2300. Successful Pairs of Spells and Potions"). Описаны тут https://www.geeksforgeeks.org/variants-of-binary-search/.
+4) бинарный поиск. Очень важны разные вариации (например, пргождается мне в задаче "2300. Successful Pairs of Spells and Potions", хотя рациональнее решать ее за линейное время вот так https://leetcode.com/problems/successful-pairs-of-spells-and-potions/solutions/3368209/prefix-postfix-sum-c-99-faster-in-time/?orderBy=most_votes). Описаны тут https://www.geeksforgeeks.org/variants-of-binary-search/.
 ________________
 Вообще работа на будущее. 
 1) мб разобраться под капотом. Например с хеш-функцией в dict
