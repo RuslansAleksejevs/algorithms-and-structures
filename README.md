@@ -88,7 +88,8 @@ ________________
 2) разбери задачу о рюкзаке и ее вариации. 881 похожа будто бы
 3) сортировка словарика по ключу и по значению (https://www.geeksforgeeks.org/python-sort-python-dictionaries-by-key-or-value/)
 4) Еще прикольный подход, как в последней задаче biweekly100 -- пишем функцию ГодитсяЛиЧислоИкс(x) и бинарным поиском ищем минимальное/максимальное такое число.
-5) Разобраться с enumerate, постоянно забываю про эту фишку, а бывает весьма полезной. В тему: https://leetcode.com/problems/minimize-maximum-of-array/solutions/2826447/python-binary-search-on-answer-easy-to-understand/.
+Название метода -- **"BINARY SEARCH ON ANSWER"**. В тему: https://leetcode.com/problems/minimize-maximum-of-array/solutions/2826447/python-binary-search-on-answer-easy-to-understand/. Еще: https://codeforces.com/blog/entry/110077
+5) Разобраться с enumerate, постоянно забываю про эту фишку, а бывает весьма полезной.
 __________________________________________________________________
 Имхо, в задаче 881 зашит two sum.
 
