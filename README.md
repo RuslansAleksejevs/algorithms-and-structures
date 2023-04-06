@@ -91,6 +91,6 @@ ________________
 Название метода -- **"BINARY SEARCH ON ANSWER"**. В тему: https://leetcode.com/problems/minimize-maximum-of-array/solutions/2826447/python-binary-search-on-answer-easy-to-understand/. Еще: https://codeforces.com/blog/entry/110077
 5) Разобраться с enumerate, постоянно забываю про эту фишку, а бывает весьма полезной.
 __________________________________________________________________
-Имхо, в задаче 881 зашит two sum.
-
-2405. Optimal Partition of String -- самый простой медиум в моей жизни. Но энивей подумай и посмотри, какая операция быстрее -- my_set=set() или my_set.clear().
+1) Имхо, в задаче 881 зашит two sum.
+2) 2405. Optimal Partition of String -- самый простой медиум в моей жизни. Но энивей подумай и посмотри, какая операция быстрее -- my_set=set() или my_set.clear().
+3) Одна из моих любимых задач -- https://leetcode.com/problems/number-of-islands/. Есть еще ее вариация https://leetcode.com/problems/number-of-closed-islands/. Вообще, люблю dfs и рекурсию.
