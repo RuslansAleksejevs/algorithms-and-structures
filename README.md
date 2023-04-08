@@ -95,3 +95,4 @@ __________________________________________________________________
 2) 2405. Optimal Partition of String -- самый простой медиум в моей жизни. Но энивей подумай и посмотри, какая операция быстрее -- my_set=set() или my_set.clear().
 3) Одна из моих любимых задач -- https://leetcode.com/problems/number-of-islands/. Есть еще ее вариация https://leetcode.com/problems/number-of-closed-islands/. Вообще, люблю dfs и рекурсию.
 4) что такое union find?
+5) ценно https://www.youtube.com/watch?v=mQeF6bN8hMk. Прием использующий словарик в задаче на графы.
