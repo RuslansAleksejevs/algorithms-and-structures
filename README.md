@@ -96,3 +96,4 @@ __________________________________________________________________
 3) Одна из моих любимых задач -- https://leetcode.com/problems/number-of-islands/. Есть еще ее вариация https://leetcode.com/problems/number-of-closed-islands/. Вообще, люблю dfs и рекурсию.
 4) что такое union find?
 5) ценно https://www.youtube.com/watch?v=mQeF6bN8hMk. Прием использующий словарик в задаче на графы.
+6) Питон: reversed VS reversed VS string[::-1] (или с листом тот срез)
