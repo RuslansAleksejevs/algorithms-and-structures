@@ -100,3 +100,4 @@ __________________________________________________________________
 5) ценно https://www.youtube.com/watch?v=mQeF6bN8hMk. Прием использующий словарик в задаче на графы.
 6) Питон: reversed VS reversed VS string[::-1] (или с листом тот срез)
 7) Питон, декораторы. Например, https://pythonworld.ru/osnovy/dekoratory.html.
+8) У чела есть плейлист по DP: https://www.youtube.com/watch?v=NPZn9jBrX8U&list=PLgUwDviBIf0pwFf-BnpkXxs0Ra0eU2sJY&index=12.
