@@ -99,3 +99,4 @@ __________________________________________________________________
 4) что такое union find?
 5) ценно https://www.youtube.com/watch?v=mQeF6bN8hMk. Прием использующий словарик в задаче на графы.
 6) Питон: reversed VS reversed VS string[::-1] (или с листом тот срез)
+7) Питон, декораторы. Например, https://pythonworld.ru/osnovy/dekoratory.html.
