@@ -86,6 +86,7 @@ ______________________________________________
 4) бинарный поиск. Очень важны разные вариации (например, пргождается мне в задаче "2300. Successful Pairs of Spells and Potions", хотя рациональнее решать ее за линейное время вот так https://leetcode.com/problems/successful-pairs-of-spells-and-potions/solutions/3368209/prefix-postfix-sum-c-99-faster-in-time/?orderBy=most_votes). Описаны тут https://www.geeksforgeeks.org/variants-of-binary-search/.
 5) дийкстра, крускал, floyd-warshall. Мб чет еще?
 6) Поиск подстроки по Кнуту. Мб стоит разобраться
+7) Генерация всех перестановок, сочетаний, размещений и т.д. Скажем, понадобилось бы, если бы я захотел решить https://leetcode.com/problems/maximum-value-of-k-coins-from-piles/ брут форсом.
 ________________
 Вообще работа на будущее. 
 1) мб разобраться под капотом. Например с хеш-функцией в dict
